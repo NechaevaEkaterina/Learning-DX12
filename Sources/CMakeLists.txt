@@ -1,0 +1,1 @@
+add_library(Sources sources.cpp)
